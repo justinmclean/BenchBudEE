@@ -43,8 +43,16 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 2500 1950 0    60   Input ~ 0
+Text HLabel 4000 2600 0    60   Input ~ 0
 TCIN+
-Text HLabel 2500 2250 0    60   Input ~ 0
+Text HLabel 4000 2900 0    60   Input ~ 0
 TCIN-
+Text HLabel 2450 2600 0    60   Input ~ 0
+MOSI
+Text HLabel 2450 2700 0    60   Output ~ 0
+MISO
+Text HLabel 2450 2800 0    60   Input ~ 0
+CSLK
+Text HLabel 2450 2900 0    60   Input ~ 0
+CS_N
 $EndSCHEMATC
