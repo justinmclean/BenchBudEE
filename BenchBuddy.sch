@@ -33,7 +33,7 @@ EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 8
 Title ""
 Date ""
 Rev ""
@@ -43,4 +43,46 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Sheet
+S 5500 2300 1300 850 
+U 52EC1697
+F0 "Arduino" 50
+F1 "Arduino.sch" 50
+$EndSheet
+$Sheet
+S 8050 3450 1300 1100
+U 52EC181E
+F0 "Relay" 50
+F1 "Relay.sch" 50
+$EndSheet
+$Sheet
+S 5450 1000 1400 1000
+U 52EC184C
+F0 "Power" 50
+F1 "Power.sch" 50
+$EndSheet
+$Sheet
+S 8050 2350 1300 900 
+U 52EC18A1
+F0 "LED Driver" 50
+F1 "LEDdriver.sch" 50
+$EndSheet
+$Sheet
+S 8050 1100 1300 1000
+U 52EC18BF
+F0 "Fan" 50
+F1 "Fan.sch" 50
+$EndSheet
+$Sheet
+S 9800 1100 500  4700
+U 52EC18E7
+F0 "Terminal Block" 50
+F1 "TerminalBlock.sch" 50
+$EndSheet
+$Sheet
+S 8050 4800 1300 1000
+U 52EC1778
+F0 "Thermocouple" 50
+F1 "Thermocouple.sch" 50
+$EndSheet
 $EndSCHEMATC
